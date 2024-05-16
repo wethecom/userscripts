@@ -1,0 +1,5 @@
+{
+  "Roll": "roll the dice for the current situation",
+ "start": "tell the player where they are",
+"perception": "based on the players abilitys what can they see",
+}
